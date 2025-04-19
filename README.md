@@ -15,5 +15,3 @@ This project is a simple Grade Calculator implemented in C++ that calculates bot
 - C++ Compiler (g++ or any compatible C++ compiler)
 - Standard C++ library
 
-## Usage
-1. Clone or download
